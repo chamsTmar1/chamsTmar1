@@ -18,7 +18,7 @@
 
 ```yaml
 role: Software Engineering Student @ INSAT
-specialization: [Software Deveopment, DevOps, Cloud Infrastructure, Security]
+specialization: [Software Development, DevOps, Cloud Infrastructure, Security]
 location: Tunis, Tunisia
 graduation: 2026
 
