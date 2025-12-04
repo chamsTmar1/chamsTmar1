@@ -39,9 +39,9 @@ interests:
 
 ## 🛠️ Tech Stack
 
-<div align="center">
+<div align="left">
 
-### ☁️ Cloud & Infrastructure
+### Cloud & Infrastructure
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="50" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" alt="Azure" width="50" height="50"/>
@@ -51,7 +51,7 @@ interests:
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" alt="Terraform" width="50" height="50"/>
 </p>
 
-### 💻 Languages
+### Languages
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++" width="50" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="50" height="50"/>
@@ -61,7 +61,7 @@ interests:
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="50" height="50"/>
 </p>
 
-### 🔧 DevOps & Tools
+### DevOps & Tools
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" alt="Jenkins" width="50" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub Actions" width="50" height="50"/>
@@ -71,7 +71,7 @@ interests:
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" alt="Bash" width="50" height="50"/>
 </p>
 
-### 🗄️ Databases & Big Data
+### Databases & Big Data
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="50" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="50" height="50"/>
@@ -79,7 +79,7 @@ interests:
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachespark/apachespark-original.svg" alt="Spark" width="50" height="50"/>
 </p>
 
-### 🎨 Frontend & Frameworks
+### Frontend & Frameworks
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="50" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" alt="Next.js" width="50" height="50"/>
@@ -98,10 +98,6 @@ interests:
   <img height="180em" src="https://github-readme-stats-beta-pink-99.vercel.app/api?username=chamsTmar1&show_icons=true&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats-beta-pink-99.vercel.app/api/top-langs/?username=chamsTmar1&layout=compact&langs_count=8"/>
 </div>
-
-<br/>
-
-![Snake animation](https://github.com/chamsTmar1/chamsTmar1/blob/output/github-contribution-grid-snake.svg)
 
 <br/>
 
