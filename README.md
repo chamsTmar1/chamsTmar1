@@ -87,7 +87,7 @@ interests:
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats-beta-pink-99.vercel.app/api?username=chamsTmar1&show_icons=true&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-beta-pink-99.vercel.app/api/top-langs/?username=chamsTmar1&layout=compact&langs_count=8"/>
+  <img height="180em" src="https://github-readme-stats-beta-pink-99.vercel.app/api/top-langs/?username=chamsTmar1&layout=compact&hide=html,css,scss"/>
 </div>
 
 <br/>
