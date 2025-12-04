@@ -1,4 +1,4 @@
-# Hey there, I'm Chams 🌞
+# 🌞 Hey buddy, I'm Chams 
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?text=Software%20•%20Cloud%20•%20DevOps%20•%20Security&animation=fadeIn&type=waving&color=gradient&height=120&fontSize=35"/>
