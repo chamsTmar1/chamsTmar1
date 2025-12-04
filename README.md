@@ -4,13 +4,6 @@
   <img src="https://capsule-render.vercel.app/api?text=Software%20•%20Cloud%20•%20DevOps%20•%20Security&animation=fadeIn&type=waving&color=gradient&height=120&fontSize=35"/>
 </div>
 
-<div align="center">
-  
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-chamstmar-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/chamstmar/)
-  [![Email](https://img.shields.io/badge/Email-chamstmar@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:chamstmar@gmail.com)
-  
-</div>
-
 <br/>
 
 ## 🚀 About Me
@@ -100,6 +93,15 @@ interests:
 </div>
 
 <br/>
+
+## 🌐 Socials
+
+<div align="center">
+  
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-chamstmar-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/chamstmar/)
+  [![Email](https://img.shields.io/badge/Email-chamstmar@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:chamstmar@gmail.com)
+  
+</div>
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
