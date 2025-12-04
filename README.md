@@ -4,8 +4,6 @@
   <img src="https://capsule-render.vercel.app/api?text=Software%20•%20Cloud%20•%20DevOps%20•%20Security&animation=fadeIn&type=waving&color=gradient&height=150&fontSize=35"/>
 </div>
 
-<br/>
-
 ## 🚀 About Me
 
 ```yaml
