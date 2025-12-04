@@ -11,9 +11,8 @@ location: Tunis, Tunisia
 graduation: 2026
 
 currently_working_on:
-  - Building Kubernetes operators with Go & Kubebuilder
-  - Cross-cloud workload identity federation (AWS, Azure, GCP)
   - SOC 2 compliance & security automation
+  - Cross-cloud workload identity federation (AWS, Azure, GCP)
 
 interests:
   - Cloud-native architectures
