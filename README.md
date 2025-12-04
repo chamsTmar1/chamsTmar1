@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?text=🌞%20Hey%20buddy,%20I'mShams!%20&animation=fadeIn&type=waving&color=green&height=150&fontSize=35"/>
+  <img src="https://capsule-render.vercel.app/api?text=🌞%20Hey%20buddy,%20I'mShams!%20&animation=fadeIn&type=waving&color=gradient&height=150&fontSize=35"/>
 </div>
 
 ## 🚀 About Me
