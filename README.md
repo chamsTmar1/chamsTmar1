@@ -95,8 +95,8 @@ interests:
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats-beta-pink-99.vercel.app/api?username=chamsTmar1&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-beta-pink-99.vercel.app/api/top-langs/?username=chamsTmar1&layout=compact&langs_count=8&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats-beta-pink-99.vercel.app/api?username=chamsTmar1&show_icons=true&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-beta-pink-99.vercel.app/api/top-langs/?username=chamsTmar1&layout=compact&langs_count=8"/>
 </div>
 
 <br/>
