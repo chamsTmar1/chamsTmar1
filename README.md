@@ -1,7 +1,7 @@
 # 👋 Hey, I'm Chams Tmar
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?text=Cloud%20•%20DevOps%20•%20Security&animation=fadeIn&type=waving&color=gradient&height=120&fontSize=35"/>
+  <img src="https://capsule-render.vercel.app/api?text=Software%20•%20Cloud%20•%20DevOps%20•%20Security&animation=fadeIn&type=waving&color=gradient&height=120&fontSize=35"/>
 </div>
 
 <div align="center">
@@ -96,9 +96,10 @@ interests:
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=chamsTmar1&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chamsTmar1&layout=compact&langs_count=8&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats-jdelvaf07-chamstmar1s-projects.vercel.app/api?username=chamsTmar1&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-jdelvaf07-chamstmar1s-projects.vercel.app/api/top-langs/?username=chamsTmar1&layout=compact&langs_count=8&theme=tokyonight"/>
 </div>
+<br/>
 
 <br/>
 
@@ -106,8 +107,8 @@ interests:
 
 <br/>
 
----
-
+Feel free to reach out for collaborations, opportunities, or just to chat about tech!
+<br/>
 <div align="center">
-  <i>⭐️ From <a href="https://github.com/chamsTmar1">chamsTmar1</a> with passion for building scalable & secure systems</i>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
 </div>
