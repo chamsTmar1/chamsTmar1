@@ -1,13 +1,6 @@
 # 🌞 Hey buddy, I'm Shams!
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?text=Software%20•%20Cloud%20•%20DevOps%20•%20Security&animation=fadeIn&type=waving&color=gradient&height=120&fontSize=35"/>
-</div>
-
-<br/>
-
-## 🚀 About Me
-
+**`about_me.yaml`**
 ```yaml
 role: Software Engineering Student @ INSAT
 specialization: [Software Development, DevOps, Cloud Infrastructure, Security]
